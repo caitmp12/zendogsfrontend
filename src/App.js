@@ -7,7 +7,7 @@ import Form from "./Form";
 function App() {
 
   //URL variable
-  const url = "http://cmp-zenbackend.herokuapp.com"
+  const url = "https://cmp-zenbackend.herokuapp.com"
 
   //List of Dogs State
   const [dogs, setDogs] = React.useState([])
